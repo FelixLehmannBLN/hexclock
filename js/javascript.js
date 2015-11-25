@@ -32,6 +32,5 @@
     setInterval(function(){
       updateTime();
       $('body').css("background-color", $rgb );
-      console.log($rgb);
     }, 1000);
   });
